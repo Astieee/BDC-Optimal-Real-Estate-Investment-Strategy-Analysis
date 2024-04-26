@@ -1,4 +1,4 @@
-# BDC-Optimal-Real-Estate-Investment-Strategy-Analysis
+# BDC Optimal Real Estate Investment Strategy Analysis
 
 ## Project Overview
 The Brooks Development Corporation (BDC) Real Estate Project Selection is an optimization case where the corporation faces a strategic decision to invest in a combination of six potential real estate projects. The challenge is to maximize the total Net Present Value (NPV) while operating under a strict budget and a set of constraints.
