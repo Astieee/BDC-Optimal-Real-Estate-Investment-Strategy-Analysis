@@ -3,18 +3,6 @@
 ## Project Overview
 The Brooks Development Corporation (BDC) Real Estate Project Selection is an optimization case where the corporation faces a strategic decision to invest in a combination of six potential real estate projects. The challenge is to maximize the total Net Present Value (NPV) while operating under a strict budget and a set of constraints.
 
-## Data Summary
-The projects are identified by their respective NPVs and required expenditures (in millions):
-
-Project	NPV ($M)	Expenditure ($M)
-1	$15	$90
-2	$5	$34
-3	$13	$81
-4	$14	$70
-5	$20	$114
-6	$9	$50
-Total Budget: $220 million
-
 ## Objective
 The primary goal is to determine the optimal project combination that yields the highest total NPV, considering the budget of $220 million and specific project interdependencies.
 
